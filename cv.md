@@ -1,5 +1,5 @@
 1. # Ilya Makarevich;
-2. *Gmail:*ilya.makarevich1210@gmail.com;
+2. *Gmail:* ilya.makarevich1210@gmail.com; *Skype:* Ilya Makarevich; 
 3. I want to get new knowledge and development experience, __ready to make a lot of effort.__
 There is a goal to become a good specialist and use it in future. I have some experience
 in website development, also worked with react.;
