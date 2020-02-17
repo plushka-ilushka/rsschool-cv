@@ -4,7 +4,7 @@ body {
     width: 1024px;
     min-height: 400px;
     font-family: 'Roboto', sans-serif;
-    border: 2px solid grey;
+    border: 1px solid gray;
 }
 
 .page-header {
@@ -23,6 +23,10 @@ body {
     text-align: center;
     line-height: 12px;
     font-size: 24px;
+}
+
+.ilusha-gif {
+    text-align: center;
 }
 
 
