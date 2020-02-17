@@ -1,0 +1,52 @@
+body {
+    padding: 0;
+    margin: 0 auto;
+    width: 1024px;
+    min-height: 400px;
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid gray;
+}
+
+.page-header {
+    height: 300px;
+    background: url('img/hero-bg.jpg');
+    background-size: 1024px 400px;
+}
+
+.email {
+    padding:  15px;
+}
+
+.container-name{
+    padding: 50px;  
+    text-align: center;
+    line-height: 12px;
+    font-size: 24px;
+}
+
+.ilusha-gif {
+    text-align: center;
+}
+
+.about-me {
+    padding: 0 30px;
+}
+
+li {
+    line-height: 26px;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+}
+
+.page-footer {
+    padding: 30px;
+    border-top: 1px solid lightgray;
+}
+
